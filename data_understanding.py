@@ -2,7 +2,7 @@
 import pandas as pd
 
 """upload the data"""
-df = pd.read_csv(r"C:\Users\lucyl\Desktop\Alex AI Weiterbilgung\Programming with Python\house data.csv", index_col=False)
+df = pd.read_csv("house data.csv", index_col=False)     # UPDATE FILE PATH TO UPLOAD DATA
 
 """view the first 5 lines of data to ensure correct upload"""
 print(df.head())
