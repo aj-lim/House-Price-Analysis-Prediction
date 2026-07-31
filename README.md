@@ -5,6 +5,9 @@ The project also includes a **Command-Line Interface (CLI)** for users to create
 
 ---
 
+## 📈 Data
+The dataset used for this project can be downloaded from Kaggle: https://www.kaggle.com/datasets/shree1992/housedata
+
 ## 📌 Features
 - **Data Understanding**: checks details of the raw data and carries out cleansing tasks.
 - **Data Exploration**: Statistical analysis and visual insights of the data.
