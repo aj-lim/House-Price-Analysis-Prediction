@@ -30,7 +30,7 @@ pip install -r requirements.txt
 ```
 ## Open the terminal and run the CLI
 ```bash
-python cli.py
+python main.py
 ```
 ## Enter the required input values
 - Number of bedrooms (must be an integer between 0 - 9)
